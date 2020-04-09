@@ -9,7 +9,6 @@ b:
     COPYTO   1
     BUMPUP   1
 c:
-    COPYFROM 1
     SUB      4
     JUMPN    d
     JUMPZ    e
